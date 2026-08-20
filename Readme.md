@@ -7,8 +7,8 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, recusandae fugiat 
 
 ![Output](./output.avif)
 
-### Third Heading
+### Covered Topics
 
-HTML 
-CSS 
-JS
+- HTML 
+- CSS 
+- JS
