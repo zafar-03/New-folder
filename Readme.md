@@ -10,5 +10,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, recusandae fugiat 
 ### Covered Topics
 
 - HTML 
+    - HTML 1.1
+    - HTML 1.2
 - CSS 
 - JS
