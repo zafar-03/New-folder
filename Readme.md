@@ -5,6 +5,6 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, recusandae fugiat 
 
 ## second Heading
 
-![Output]("./output.avif")
+![Output](./output.avif)
 
 ### Third Heading
